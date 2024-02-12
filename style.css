@@ -1,0 +1,164 @@
+* {
+    margin: 0px ;
+    padding: 0px;
+    font-family: Arial;
+    text-decoration-line: none ;
+}
+
+.header{
+    height: 120px ;
+    background-color: #c51aa9;
+    display: flex;
+    justify-content:center ;
+    align-items:center ;
+}
+
+.body {
+    background-color: #7aabe1
+}
+.headingname{
+    width: 400px;
+    margin-bottom: 10px;
+    box-shadow: 0 0 1rem rgba(0, 0, 0, 0.5);
+}
+.name {
+    font-size:6vmin;
+    text-align: center;
+    color: #0d2e64;
+    text-shadow: 0 0 7px #fff;
+}
+.container {
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.game{
+    height: 60vmin;
+    width: 60vmin;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 1.5vmin;
+
+}
+.box {
+    height: 18vmin;
+    width: 18vmin;
+    background-color: #6ad3d3;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 0 1rem rgba(0, 0, 0, 0.4);
+}
+
+.printx {
+    background-color: #df58d8;
+}
+.printo {
+    background-color: #5cd090;
+}
+
+
+.hide {
+    display: none;
+}
+
+.hover1:hover{
+    background-color:#46c6c6 ;
+}
+
+.x {
+    font-size: 120px;
+    color: rgb(41, 226, 226);
+    text-align: center;
+}
+
+.o {
+    font-size: 120px;
+    color: rgb(228, 85, 24);
+    text-align: center;
+}
+
+.winner {
+    height: 73vmin;
+    background-color: #cf45d4;
+    margin-top: 70px;
+    
+}
+.winnerp {
+    padding-top: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.winnerText {
+    /* margin-top: 70px; */
+    color: rgb(228, 85, 24);
+    text-align: center;
+    font-size: 150px;
+    color: #1a1aab;
+    text-shadow: 0 0 7px #fff;
+}
+
+.resetBtnDiv {
+    display: flex;
+    justify-content: center;
+    
+}
+
+.resetBtn {
+    justify-content: center;
+    align-items: center;
+    height: 10vmin;
+    width: 23vmin;
+    background-color: #0e87b6;
+    border-radius: 6px;
+    border: none;
+    font-size: 25px;
+    font-weight: 600;
+
+}
+.restartBtnDiv {
+    display: flex;
+    justify-content: center;
+    padding-top: 90px;
+}
+
+.restartBtn {
+    justify-content: center;
+    align-items: center;
+    height: 10vmin;
+    width: 16vmin;
+    background-color: #d53e3b;
+    border-radius: 6px;
+    border: none;
+    font-size: 25px;
+    
+
+}
+.hover2:hover{
+    background-color: #1352b6;
+
+}
+
+.footer {
+    margin-top: 100px;
+    background-color: #dc40c2;
+    height: 80px ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.foorterText {
+    height: 20 px ;
+    font-size: large
+}
+
+.hover3:hover {
+    background-color: #aa05a7;
+}
