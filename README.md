@@ -1,6 +1,6 @@
-# The_Game_Rock_Paper_Scissors
+# The_Game_Tik_Tak_Toe
 
-This is my second Project in which I used <br>
+This is my First Project in which I used <br>
 HTML <br>
 CSS <br>
 Java Script <br>
